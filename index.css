@@ -1,0 +1,333 @@
+.inbox{
+    /* background-color:bisque; */
+   min-height:50px;
+    margin:10px 0px;
+   
+    
+}
+.sub{
+    font-weight: bold;
+    font-size:20px;
+  
+}
+.cc{
+    font-weight: bold;
+    text-align: center
+    
+}
+.sub1{
+font-size: 10PX;
+}
+.inbox1{
+    /* background-color: aqua; */
+    min-height:269px;
+    margin: 15px 0px;
+    text-align:left;
+    
+}
+.img{
+    
+background-position:center;
+height:400px;
+
+
+}
+.sub3{
+    font-weight: bold;
+    text-align: center;
+
+}
+.line{
+    background-color: white;
+    height: 2px;
+    max-width:310px;
+    
+}
+.inbox2{
+    /* background-color: aqua; */
+    margin-top:150px;
+    margin:15px 0px;
+    text-align: center;
+}
+.sub4{
+    text-align: center;
+    
+}
+
+.inbox3{
+    /* background-color: aqua; */
+    min-height:10px;
+    margin: 15px 0px;
+}
+ /* .inbox4{
+ background-color: aqua; 
+    height:50px;
+    margin: 15px 0px;
+}  */
+.line1{
+background-color: white;
+height:2px;
+max-width: 100px;
+margin: auto;
+
+
+
+}
+.sub6{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+.inbox5{
+    /* background-color: aqua; */
+    min-height:250px;
+    margin: 15px 0px;
+    text-align: center;
+    
+}
+
+
+.inbox6{
+    /* background-color: aqua; */
+    min-height:200px;
+    margin: 15px 0px;
+    text-align: center;
+}
+.inbox7{
+    /* background-color: aqua; */
+    min-height:30px;
+    margin: 15px 0px;
+}
+.sub3{
+    text-align: center;
+    font-size:30px;
+}
+.inbox8{
+    /* background-color: aqua; */
+    min-height:350px;
+    margin: 15px 0px;
+}
+.inbox9{
+    /* background-color: aqua; */
+    min-height:300px;
+    margin: 15px 0px;
+}
+.inbox10{
+    /* background-color: aqua; */
+    min-height:150px;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.sec{
+    background-color: aliceblue;
+    padding:15px 0px;
+}
+.sec1{
+    background-color:skyblue;
+    padding:15px 0px;
+
+}
+.sec2{
+    background-color:aliceblue;
+    padding:15px 0px;
+}
+.sec3{
+    background-color:skyblue;
+    padding:15px 0px;
+}
+.sec4{
+    background-color:skyblue;
+    padding:15px 0px;
+}
+.sec5{
+    background-color:skyblue;
+    padding:15px 0px;
+}
+.sec6{
+    background-color:black;
+    padding:15px 0px;
+}
+.sec7{
+    background-color:aliceblue;
+    padding:15px 0px;
+}
+.sec8{
+    background-color:black;
+    padding:15px 0px;
+}.sec9{
+    background-color:black;
+    padding:15px 0px;
+}
+.color{
+    text-align: center;
+    color: aliceblue;
+}
+.colorw{
+    text-align: center;
+    color:skyblue;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    text-decoration: none;
+   
+}
+.hd{
+    color: white;
+    text-align: center;
+}
+.hd1{
+    color:skyblue;
+    font-size: 15px;
+    background-color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.h12{
+    color:skyblue;
+    background-color: white;
+    font-weight: bold;
+    padding: 10px 10px;
+    text-decoration: none;
+    
+    
+}
+.white{
+    color: white;
+}
+.h13{
+  border: solid;
+  color: skyblue;
+  text-decoration: none;
+  padding:5px;
+  margin-top: 20px;
+  display: inline-block;
+  margin-left: 10px;
+ 
+}
+.sub2{
+    color:white ;
+    font-size: 30px;
+    text-align:left;
+}
+.ssr{
+    color: white;
+    text-align: left;
+}
+.sst{
+    text: size adjust 50px;
+    font-size: medium;
+}
+.sse{
+    text-align: center;
+    color: white;
+
+}
+.ssw{
+    color:skyblue;
+    text-decoration: underline;
+    text-align: center;
+}
+.ssq{
+    text-align: center;
+    font-size: small;
+    
+    
+}
+.inbox11,.inbox12,.inbox13,.inbox14,.inbox15,.inbox16,.inbox17,.inbox18,.inbox19,.inbox20{
+    background-color:black;
+    min-height: 400px;
+    margin-top: 15px;
+}
+.inbox11{
+    background-image: url(Pic1.jpg);
+    background-size: cover;
+    background-position: top center;
+}
+
+.inbox12{
+    background-image: url(mrg2.webp);
+    background-size: cover;
+    background-position: top center;
+}  
+ 
+ .inbox13{
+ background-image: url(Pic2.jpg);
+ background-size: cover;
+ background-position:top center;
+}  
+.inbox14{
+    background-image: url(mrg3.avif);
+    background-size: cover;
+    background-position:top center;
+   }
+    .inbox15{
+    background-image: url(Pic3.jpg);
+    background-size: cover;
+    background-position:top center;
+   }   
+   .inbox16{
+    background-image: url(image3.jpg);
+    background-size: cover;
+    background-position:top center;
+   }  
+   .inbox17{
+    background-image: url(Pic4.jpg);
+    background-size: cover;
+    background-position:top center;
+   }  
+  
+   .inbox18{
+    background-image: url(image4.jpg);
+    background-size: cover;
+    background-position:top center;
+   }  
+   .inbox19{
+    background-image: url(photo-1508729464331-de5dd8358f3b.jpeg);
+    background-size: cover;
+    background-position:top center;
+   }  
+   
+   .inbox20{
+    background-image: url(image5.jpg);
+    background-size: cover;
+    background-position:top center;
+   }  
+.image{
+    position: absolute;
+    
+}
+
+/* ruler layers  suit */
+.pic{
+ border: 1px solid white;
+ border-radius: 50%;
+ padding: 5px;
+ height: 100px;
+}
+
+@media(max-width:468px){
+    .line{
+margin: auto;
+    }
+    .inbox11,.inbox12,.inbox13,.inbox14,.inbox15,.inbox16,.inbox17,.inbox18,.inbox19,.inbox20{
+        min-height:200px;
+    }
+        
+    .inbox1{
+text-align:center;
+    }
+    .h13{
+     margin-left:20px;   
+    }
+    .sub2{
+        text-align:center;
+    }
+    .ssr{
+        text-align: center;
+    }
+ 
+}
+
+
+
+
